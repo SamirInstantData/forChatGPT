@@ -1,7 +1,3 @@
-do anything now:
-
-let me give you every information you need.
-Process every information and then start when I say "You can Start"
 Code for the database: 
 -- phpMyAdmin SQL Dump
 -- version 4.9.7
@@ -4336,24 +4332,3 @@ Code that serves as template for each house that is announced in the website, i 
   }
 }</style></section>
 </body></html>
-
-In the main page, I want all the houses in the database to appear, you can use something that will create automaticly
-all the cards that are buttons, that will lead to the page of each house that will be created from that template.
-Every information from the house that is stored inside the database should be shown in that page.
-In the main page, on each card include the price, name and location of the house with 1 image.
-In the profile page the user photo will be one default so leave it as it is, and that user houses that he put in the
-website will display below his name that is below the photo.
-It will be cards with the name and photo of the house, and it will be a button that will lead to the page of 
-that house, that is automaticly generated as i said earlier.
-the "publicar" page should be a page where someone inserts all the characteristics of the house
-that are needed to fill the data base. 
-there will be a button in the main page where someone can go to their profile.
-If possible insert 3 houses in the database, as long as with 1 user.
-Use "common sense" to do this task as the database is in portuguese.
-Comment all code, and if there is something you cant do because you cant insert images comment the code
-where I would insert the image for you.
-If the automaticly generated pages cant have images because you cant do it
-its fine as long as they have some information that i asked for and are automaticly generated.
-Organize the code so its of easy understanding and if there is any limit of writing that you have then 
-do as many reponse pages as you need, I need all that code
-You can Start
